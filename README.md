@@ -12,7 +12,7 @@ I am actively looking for a long-term career with an organization that can utili
 
 ## Projects
 
-**[📈 8 Week SQL Challenge] (https://github.com/Adam-Chamberlain/8-Week-SQL-Challenge)**
+**[📈 8 Week SQL Challenge](https://github.com/Adam-Chamberlain/8-Week-SQL-Challenge)**
 
 This is a set of eight different case studies that require SQL to find important datapoints and solve complex questions. So far, I have completed the first three, and I created many complex SQL queries utilizing CTEs, subqueries, CASE statements, and much more.
 
