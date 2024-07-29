@@ -6,11 +6,15 @@ I am actively looking for a long-term career with an organization that can utili
 
 ## Skills
 - Advanced Microsoft Excel / Google Sheets, including Pivot Tables, advanced formulas (VLOOKUP, COUNTIFS, IF, etc), and building/designing charts. I received a Microsoft Excel certification in April 2024.
-- Intermediate SQL knowledge, including temporary tables and joining tables with JOIN
+- Intermediate SQL knowledge, including temporary tables and CTEs, joining tables with JOIN, and subqueries
 - Basic R / R Markdown knowledge
 - Basic Tableau knowledge
 
 ## Projects
+
+**[📈 8 Week SQL Challenge] (https://github.com/Adam-Chamberlain/8-Week-SQL-Challenge)**
+
+This is a set of eight different case studies that require SQL to find important datapoints and solve complex questions. So far, I have completed the first three, and I created many complex SQL queries utilizing CTEs, subqueries, CASE statements, and much more.
 
 **[🚲 Cyclistic Case Study](https://github.com/Adam-Chamberlain/Cyclistic-Case-Study)**
 
